@@ -26,9 +26,9 @@ Quickstarts
 .. toctree::
    :maxdepth: 1
 
-   #PlainServerClientquickstart
-   #UWSGIServerClientquickstart
-   #FileCommentquickstart
+   .. PlainServerClientquickstart
+   .. UWSGIServerClientquickstart
+   .. FileCommentquickstart
 
 Table of Contents
 =================
@@ -36,8 +36,8 @@ Table of Contents
 .. toctree::
   :maxdepth: 1
 
-  #Download
-  #Install
+  .. Download
+  .. Install
 
 Tutorials
 =========
@@ -45,6 +45,6 @@ Tutorials
 .. toctree::
   :maxdepth: 1
 
-  #tutorials/NGINXSetup
-  #tutorials/FineTuning
-  #tutorials/ConfigurationFile
+  .. tutorials/NGINXSetup
+  .. tutorials/FineTuning
+  .. tutorials/ConfigurationFile
