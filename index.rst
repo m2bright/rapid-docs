@@ -34,8 +34,8 @@ Table of Contents
 .. toctree::
   :maxdepth: 1
 
-  .. Download
-  .. Install
+  Download
+  Install
 
 Tutorials
 =========
