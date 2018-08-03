@@ -23,4 +23,4 @@ The Client server is quite easy to bring up as well.
     rapid -c
 
 There are initial defaults that should just work without any configuration. For further configuration, please see the
-:ref:`Configuration` section.
+:ref:`configuration` section.
