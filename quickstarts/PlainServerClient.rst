@@ -11,6 +11,8 @@ Master Server
 
 The Master server is quite easy to bring up.
 
+.. code-block:: sh
+
     rapid
 
 By default, the master server will listen on port 5000. It will also configure and write to a SQLite database.
@@ -19,6 +21,8 @@ Client Server
 -------------
 
 The Client server is quite easy to bring up as well.
+
+.. code-block:: sh
 
     rapid -c
 
