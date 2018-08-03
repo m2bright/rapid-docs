@@ -1,3 +1,5 @@
+.. _quickstarts/PlainServerClient:
+
 Plain Server Client Quick Start
 ===============================
 
