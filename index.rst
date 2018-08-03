@@ -26,9 +26,9 @@ Quickstarts
 .. toctree::
    :maxdepth: 1
 
-   .. PlainServerClientquickstart
-   .. UWSGIServerClientquickstart
-   .. FileCommentquickstart
+   .. quickstarts/PlainServerClient
+   .. quickstarts/UWSGIServerClient
+   .. quickstarts/FileComment
 
 Table of Contents
 =================
