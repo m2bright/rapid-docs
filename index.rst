@@ -27,8 +27,6 @@ Quickstarts
    :maxdepth: 1
 
    quickstarts/PlainServerClient
-   .. quickstarts/UWSGIServerClient
-   .. quickstarts/FileComment
 
 Table of Contents
 =================
