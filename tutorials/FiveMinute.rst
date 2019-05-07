@@ -12,28 +12,34 @@ onto your machine.
 
 - Install Virtualenv
 
-  .. code-block:: sh
+.. code-block:: sh
      pip install virtualenv
+
 - Create virtualenv
 
-  .. code-block:: sh
+.. code-block:: sh
      virtualenv venv
+
 - Activate virtualenv
 
-  .. code-block:: sh
+.. code-block:: sh
      . /venv/bin/activate
+
 - Install Rapid-framework
 
-  .. code-block:: sh
+.. code-block:: sh
      pip install rapid-framework
+
 - Create a configuration
 
-  .. code-block:: sh
+.. code-block:: sh
      rapid --create-config master > master.cfg
+
 - Bring the Server up
 
-  .. code-block:: sh
+.. code-block:: sh
      rapid -f master.cfg
+
 - Configure the Server to run files
 
   - Add a Pipeline
