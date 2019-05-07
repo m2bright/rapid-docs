@@ -11,42 +11,36 @@ To do this, please install whichever version of Python, 2.7 or 3.x,
 onto your machine.
 
 - Install Virtualenv
-
 .. code-block:: sh
    :1:
 
    pip install virtualenv
 
 - Create virtualenv
-
 .. code-block:: sh
    :1:
 
    virtualenv venv
 
 - Activate virtualenv
-
 .. code-block:: sh
    :1:
 
    . /venv/bin/activate
 
 - Install Rapid-framework
-
 .. code-block:: sh
    :1:
 
    pip install rapid-framework
 
 - Create a configuration
-
 .. code-block:: sh
    :1:
 
    rapid --create-config master > master.cfg
 
 - Bring the Server up
-
 .. code-block:: sh
    :1:
 
