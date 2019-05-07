@@ -43,6 +43,7 @@ Tutorials
 .. toctree::
   :maxdepth: 1
 
+  tutorials/FiveMinute
   .. tutorials/NGINXSetup
   .. tutorials/FineTuning
   .. tutorials/ConfigurationFile
